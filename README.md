@@ -3,7 +3,7 @@
 **Estudante de Desenvolvimento Web**
 
 Olá! Me chamo **Gabriel Severo**, tenho 20 anos e sou apaixonado por tecnologia e programação.  
-Atualmente estudo **Desenvolvimento Web com foco em Laravel/PHP, HTML, CSS e JavaScript**, e estou construindo projetos para aprimorar meus conhecimentos.
+Atualmente estudo **Desenvolvimento Web com foco em Laravel/PHP, HTML, CSS e JavaScript**, e estou construindo projetos para aprimorar meus conhecimentos. Tenho sólido conhecimento em HelpDesk em TI, porta de entrada, onde me levou a conquistar grandes sonhos na área. 
 
 ---
 
